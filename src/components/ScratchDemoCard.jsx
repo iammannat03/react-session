@@ -17,7 +17,7 @@ const ScratchToRevealDemo = () => {
         gradientColors={["#A97CF8", "#F38CB8", "#FDCC92"]}
       >
         <p className="text-9xl">
-          <img src="/img1.jpg" alt="image of gdg" />
+          <img src="/img1.png" alt="image of ospc" />
         </p>
       </ScratchToReveal>
     </div>
